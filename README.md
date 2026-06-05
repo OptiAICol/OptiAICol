@@ -1,12 +1,12 @@
 <div align="center">
 
-# Victor Morales · OptiAI Colombia
+# Victor Andrés Morales · OptiAI Colombia
 
-**AI Developer & Automation Specialist**
+**AI Engineer & Data Specialist**
 
-Construyo soluciones de IA para pymes y emprendedores — chatbots, agentes y automatizaciones que reducen trabajo manual y generan resultados medibles.
+Diseño, construyo y dejo corriendo sistemas de IA, datos y automatización end-to-end para empresas en LATAM. Del problema al deploy: agentes, automatizaciones e integraciones que mueven métricas reales de negocio.
 
-🌍 Medellín, Colombia
+🌍 Colombia · Remoto
 
 ---
 
@@ -16,18 +16,12 @@ Construyo soluciones de IA para pymes y emprendedores — chatbots, agentes y au
 
 ---
 
-### Lo que hago
+### Lo que construyo
 
-🤖 Agentes conversacionales con GPT-4, Claude y Gemini  
-⚙️ Automatizaciones con n8n, Make y Power Automate  
-📱 Apps móviles con React Native y Expo  
-🔗 Integraciones de APIs y bases de datos en producción
-
----
-
-### Proyectos públicos
-
-📦 [MiCromo](https://github.com/OptiAICol/MiCromo_Public) — App Android para coleccionistas del álbum Panini FIFA 2026
+🤖 Agentes y automatizaciones en producción, orquestados en n8n e integrados a APIs de negocio  
+🗄️ Arquitectura de datos: Supabase, PostgreSQL, MySQL con seguridad real (RLS, RPC)  
+📱 Apps móviles end-to-end con React Native + Expo, publicadas en tienda  
+🔗 Integración de LLMs según el caso (costo, latencia, tarea), visión artificial y RAG
 
 ---
 
